@@ -30,9 +30,8 @@ Tools: Jupyter Notebook
 
 ## Key Results
   1. Top Customers: Identified the 10 highest spenders, contributing significantly to bank revenue.
-  2. Segment Insights: Determined that customers in [Segment Name] had the highest profitability.
-  3. Category Analysis: Found [Category Name] as the most profitable spending category.
-  4. Bank Profit: Provided a dynamic model for monthly bank profit calculation based on overdue interest.
+  2. Category Analysis: Found "Normal Salary" as the most profitable spending category.
+  3. Bank Profit: Provided a dynamic model for monthly bank profit calculation based on overdue interest.
      
 ## Visualizations    
   1. Spending Patterns by Age Group:    
@@ -43,6 +42,8 @@ Tools: Jupyter Notebook
 
   3. Customers spending more than credit limit:
      ![image](https://github.com/user-attachments/assets/c205e321-a348-473c-9a42-d89345294855)
+  4. Bank Profit:
+      ![image](https://github.com/user-attachments/assets/42a2d812-51a0-4105-8296-e4bc2aeed76b)
 
 
 ## What Makes This Project Unique?
